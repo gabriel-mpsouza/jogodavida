@@ -1,4 +1,4 @@
-# Documentação do Jogo da Vida em Linguagem Assembly
+# Jogo da Vida em Linguagem Assembly
 
 ## Introdução
 Este documento fornece uma visão geral e detalhes técnicos sobre a implementação do "Jogo da Vida" de Conway em linguagem de montagem. O Jogo da Vida é um modelo matemático de autômatos celulares proposto pelo matemático britânico John Horton Conway em 1970.
